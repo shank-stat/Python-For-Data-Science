@@ -1,5 +1,6 @@
 # Python-for-Data-Science
-![image](https://user-images.githubusercontent.com/78694853/109422685-9c8de400-7a02-11eb-8053-4847dcf8526f.png)
+![image](https://user-images.githubusercontent.com/78694853/109422726-d0690980-7a02-11eb-86ed-85ef32d2e435.png)
+
 
 I have scripted my journey of learning Python for Data Science. The guide is very much relatable for beginners and specially to people from the non-tech backgrounds. Since I am one! I have seen many students, freshers and anyone trying to get into this field struggling understanding the very basics concepts. I hope someday someone will get something out of it hopefully. Help youself to copy, use and do whatever you like. All the Very Best!
 
