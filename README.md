@@ -12,7 +12,7 @@ I am scripteing my journey of learning Python for Data Science. The guide is ver
  * Type Conversion
  * Operator Precedence
 
-## Chapter 2: Branching & Iteration
+## Chapter 2 : Branching & Iteration
  * Conditional Statements Execution
    * Try, Except & Finally
    * Raising an Exception
