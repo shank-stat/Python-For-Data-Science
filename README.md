@@ -18,4 +18,5 @@ I am scripteing my journey of learning Python for Data Science. The guide is ver
    * Raising an Exception
    * Questions(1 to 3)
    * Exercise Level 1 & Exercise Level 2
+ * Loops & Iterations
  
