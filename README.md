@@ -10,7 +10,7 @@
  * Type Conversion
  * Operator Precedence
 
-## Chapter 2 : Branching & Iteration
+## Chapter 2 : Branching, Functions, Exceptions & Iteration
  * Conditional Statements Execution
    * Try, Except & Finally
    * Raising an Exception
