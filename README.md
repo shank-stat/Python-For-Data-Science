@@ -42,3 +42,40 @@
  * Urllib 
 
 ## Chapter 6 : SQL & Databases in Python 
+
+## Chapter 7 : Linear Algebra & `NumPy` Arrays in Python
+
+## Chapter 8 : Data Cleaning & Manipulation with `Pandas` 
+
+## Chapter 9 : Visualization with Python
+ * Matplotlib
+ * Seaborn
+ * Plotly
+ * Bokeh
+ * Altair
+ * Folium
+ * Mayavi
+
+## Chapter 10 : Statistics & Probability with Python
+
+## Chapter 11 : Supervised Learning
+ * Regression
+ * Logistic Regression
+ * Classification
+ * Naive Bayes Classifiers
+ * K-NN (k nearest neighbors)
+ * Decision Trees
+ * Support Vector Machine
+
+## Chapter 12 : Unsupervised Learning
+ * Clustering
+    * Exclusive (partitioning)
+    * Agglomerative
+    * Overlapping
+    * Probabilistic
+* Clustering Types
+    * Hierarchical clustering
+    * K-means clustering
+    * Principal Component Analysis
+    * Singular Value Decomposition
+    * Independent Component Analysis
