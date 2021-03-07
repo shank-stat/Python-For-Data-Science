@@ -23,4 +23,6 @@
    * Fruitful functions and void functions
    * Arguments
    * Exercises
+  
+  ## Chapter 3 : Data Structures in Python
  
