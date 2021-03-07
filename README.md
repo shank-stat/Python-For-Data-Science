@@ -24,5 +24,21 @@
    * Arguments
    * Exercises
   
-  ## Chapter 3 : Data Structures in Python
+## Chapter 3 : Data Structures in Python
+ * Strings
+ * Lists
+ * Dictionary
+ * Tuples
+ * Files & IO Functions
+ * Regular Expressions
  
+## Chapter 4 : Object Oriented Programming in Python 
+
+## Chapter 5 : Network Programming & Web Services
+ * XML
+ * JSON
+ * GeoJSON
+ * Twitter
+ * Urllib 
+
+## Chapter 6 : SQL & Databases in Python 
