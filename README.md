@@ -17,4 +17,10 @@
    * Questions(1 to 3)
    * Exercise Level 1 & Exercise Level 2
  * Functions
+  * Why Functions?
+  * Global, Local & Static Variables
+  * Lambda functions
+  * Fruitful functions and void functions
+  * Arguments
+  * Exercises
  
